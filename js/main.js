@@ -3,6 +3,5 @@ let secondNumber = Number(prompt("inserire un numero successivo a quello messo i
 
 
 if (secondNumber === firstNumber + 1) {
-    console.log(">");
+    console.log(">");}
     
-}
